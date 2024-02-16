@@ -1,1 +1,1 @@
-Foo bar baz biz
+Foo bar baz
